@@ -36,12 +36,12 @@ global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = '6283121562064'
+global.povo = '6283121562064'
+global.pgopay = '6283121562064'
+global.ppulsa = '6283121562064'
+global.ppulsa2 = '62895336008585'
+global.psaweria = 'https://trakteer/agatz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287754784524'
