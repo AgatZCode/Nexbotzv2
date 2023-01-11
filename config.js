@@ -97,7 +97,7 @@ global.APIKeys = { // APIKey Here
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://botstyle-api.herokuapp.com': 'Eyar749L',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://apimirip-1.agatdwi.repl.co': 'Agat'
 }
 
@@ -106,12 +106,12 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By AgatZ //Main Watermark
+global.wm = 'By AgatZ' //Main Watermark
 global.wm2 = 'Nai'
 global.wm3 = 'AgnZ BOT | AgatZ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
+global.titlebot = `AgnaBOT | ʙʏ ${global.nameown}`
 global.author = 'Agat' 
 global.packname = 'AgnaZ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
